@@ -3,7 +3,7 @@
 ## Description
 Pytorch implementation of the paper [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412). For more information, Please check at: https://svgcraf.github.io
 
-<img src="./images/magazine.png"  alt="1" width = 600px height = 300px >
+<img src="./images/CraftSVG.png"  alt="1" width = 600px height = 300px >
 
 
 ## Citation
