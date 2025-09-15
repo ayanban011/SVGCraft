@@ -1,4 +1,4 @@
-# SVGCraft
+# CraftSVG (Accepted WACV 2026)
 
 ## Description
 Pytorch implementation of the paper [SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout](https://arxiv.org/abs/2404.00412). For more information, Please check at: https://svgcraf.github.io
